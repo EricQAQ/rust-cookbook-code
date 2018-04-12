@@ -1,0 +1,9 @@
+/Users/eric/rust_project/rust-cookbook-code/basic-2-read-write-integers/target/release/deps/liberror_chain-5526c415609084a9.rlib: /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/lib.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/impl_error_chain_kind.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/error_chain.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/quick_main.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/example_generated.rs
+
+/Users/eric/rust_project/rust-cookbook-code/basic-2-read-write-integers/target/release/deps/error_chain-5526c415609084a9.d: /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/lib.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/impl_error_chain_kind.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/error_chain.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/quick_main.rs /Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/example_generated.rs
+
+/Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/lib.rs:
+/Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/impl_error_chain_kind.rs:
+/Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/error_chain.rs:
+/Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/quick_main.rs:
+/Users/eric/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/error-chain-0.11.0/src/example_generated.rs:

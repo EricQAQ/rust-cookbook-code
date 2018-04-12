@@ -1,0 +1,1 @@
+/Users/eric/rust_project/rust-cookbook-code/basic-2-read-write-integers/target/debug/basic-2-read-write-integers.dSYM: /Users/eric/rust_project/rust-cookbook-code/basic-2-read-write-integers/src/main.rs
