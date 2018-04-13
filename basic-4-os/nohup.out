@@ -1,0 +1,8 @@
+ls: oops: No such file or directory
+/Users/eric/rust_project/rust-cookbook-code/basic-4-os:
+Cargo.lock
+Cargo.toml
+nohup.out
+rust_out
+src
+target

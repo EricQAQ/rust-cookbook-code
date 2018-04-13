@@ -1,0 +1,7 @@
+[package]
+name = "basic-3-random"
+version = "0.1.0"
+authors = ["EricQAQ <512629113@qq.com>"]
+
+[dependencies]
+rand = "0.4.2"

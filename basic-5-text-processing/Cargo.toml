@@ -1,0 +1,8 @@
+[package]
+name = "basic-5-text-processing"
+version = "0.1.0"
+authors = ["EricQAQ <512629113@qq.com>"]
+
+[dependencies]
+regex = "0.2.10"
+error-chain = "0.11.0"
